@@ -1,0 +1,99 @@
+Attribution & Non-Commercial No-Misattribution License (ANM-NC) v1.1
+
+SPDX-License-Identifier: ANM-NC-1.1
+
+Copyright (c) 2025
+Gaurav Pant (ElectroVilla)
+All rights reserved.
+
+
+1. Grant of Permission
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to
+use, study, debug, modify, and contribute to the Software solely for
+non-commercial educational, research, and development purposes, subject to
+the terms and conditions of this license.
+
+Any use outside the scope defined above is prohibited unless explicitly
+authorized in writing by the copyright owner.
+
+
+2. Attribution
+
+You must:
+
+- Retain this full copyright notice and license text in all copies or
+  substantial portions of the Software.
+- Provide clear and reasonable attribution to the original author
+  (Gaurav Pant / ElectroVilla) in documentation, source headers, an
+  "About" page, or a NOTICE file.
+- Clearly indicate if you have modified the Software.
+
+
+3. No Misattribution / No False Claim of Authorship
+
+You may not:
+
+- Claim or imply that you are the original author of the Software.
+- Remove, obscure, falsify, or alter attribution or authorship information.
+- Rebrand, rename, or redistribute the Software (or modified versions) under
+  the same or a confusingly similar project name in a manner that misleads
+  others regarding its origin.
+
+
+4. Redistribution
+
+Redistribution of the Software, in source or binary form, is permitted only
+for non-commercial purposes, provided that:
+
+- This license and copyright notice are included in full.
+- Attribution requirements under Section 2 are satisfied.
+
+
+5. Contributions
+
+By submitting patches, pull requests, or other contributions to this project,
+you grant the project maintainers a non-exclusive, worldwide, royalty-free
+license to use, modify, and redistribute your contributions under the terms
+of this license.
+
+
+6. Trademarks & Endorsement
+
+This license does not grant permission to use the trade names, trademarks,
+service marks, or product names of the copyright owner, except for reasonable
+and customary attribution.
+
+You may not imply endorsement, sponsorship, or approval by the original
+author without explicit written permission.
+
+
+7. Commercial Use
+
+Commercial use, distribution, sale, sublicensing, or monetization of the
+Software or any derivative works is strictly prohibited without explicit
+written permission from the copyright owner.
+
+If commercial permission is granted:
+
+- Proper attribution as defined in Section 2 is mandatory.
+- This license and any additional terms provided by the copyright owner must
+  be included in all distributed copies or derivative works.
+- Commercial permissions should be documented in the project repository
+  (e.g., LICENSE-EXCEPTIONS or NOTICE file).
+
+To request commercial licensing, contact the copyright owner or open an issue
+in the project repository.
+
+
+8. Disclaimer of Warranty
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY CLAIM,
+DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
+OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE
+OR OTHER DEALINGS IN THE SOFTWARE.

@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../../.."
+		},
+		{
+			"name": "ESP8266Code",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.jsx": "javascriptreact",
+			"vector": "cpp"
+		}
+	}
+}
