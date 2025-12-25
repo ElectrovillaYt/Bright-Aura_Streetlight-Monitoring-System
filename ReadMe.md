@@ -43,7 +43,7 @@ This repository contains components for a Streetlight Monitoring system:
 
 - `Next.js_App/` — Frontend app (Next.js 13+). Key files: `app/`, `components/`, `utils/`.
 - `Express.js_Backend/` — Middleware endpoints for ESP8266 Gateway requests (port 4000 - dev server). Key files: `index.js`, `utils/firebase.js`.
-- `scheduler/` — Scheduled background tasks (uses `firebase-admin` + `node-cron`) via Github Actions.
+- `scheduler/` — Scheduled background tasks (uses `firebase-admin` + `node-cron`) can be hosted oon any platform for scheduled calls, eg: Github Actions.
 - `Hardware/` — Embedded code for `ArduinoTransmitterCode/` and `ESP8266-GatewayCode/` (PlatformIO / Arduino sketches).
 
 ---
