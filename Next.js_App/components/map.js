@@ -383,7 +383,7 @@ export default function Map() {
                                 className="relative min-h-1/2 h-full w-full"
                             >
                                 {/* Search Bar*/}
-                                <div className="absolute z-50 top-auto ml-2 md:ml-2.5 md:pt-2 pt-1">
+                                <div className="absolute z-20 top-auto ml-2 md:ml-2.5 md:pt-2 pt-1">
                                     <form
                                         onSubmit={handleInput}
                                         className="md:w-sm w-full"
